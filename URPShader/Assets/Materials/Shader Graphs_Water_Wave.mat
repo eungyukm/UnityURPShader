@@ -59,6 +59,8 @@ Material:
     - _CutoutSize: 24.41
     - _CutoutSpeed: 0.28
     - _Metallic: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
     - _Smoothness: 0
     - _TextureSpeed: 9.3
     m_Colors:
