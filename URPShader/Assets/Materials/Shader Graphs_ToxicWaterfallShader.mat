@@ -38,6 +38,8 @@ Material:
     - Vector1_0cb83e775d374289826ea4563445f365: 0
     - Vector1_e852958466dd4cb99fcea41d42ee0aa3: 1
     - _Metallic: 0.44
+    - _QueueControl: 0
+    - _QueueOffset: 0
     - _Smoothness: 0.5
     - _TransparencyMask: 0.9
     - _VoronoiAgiation: 1
