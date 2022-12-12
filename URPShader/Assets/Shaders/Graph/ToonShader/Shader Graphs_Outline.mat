@@ -34,12 +34,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FadeEndDist: 15
+    - _FadeEndDist: 1000
     - _FadeStartDist: 10
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Thickness: 3
-    m_Colors: []
+    - _Thickness: 6
+    m_Colors:
+    - _OutLineColor: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &9191550085605379060
 MonoBehaviour:

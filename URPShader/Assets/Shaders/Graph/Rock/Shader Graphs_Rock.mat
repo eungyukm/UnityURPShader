@@ -11,7 +11,7 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: a45a96aaa9b353a408eb49ba9b2857c7, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -50,8 +50,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _GrassHeightBlend: 10.49
-    - _GrassThreshold: 0.284
+    - _GrassHeightBlend: 26.49
+    - _GrassThreshold: 0.549
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []
